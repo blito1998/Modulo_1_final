@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+padding: 0;
+}
+.menu {
+    width: 20%;
+    margin: 0; padding: 0;
+    float: left;
+    background-color: #6B4226;
+    height: 100%;
+    text-decoration:none;
+    
+
+
+    }
+    .container{
+        float: right;
+        width: 80%;
+        height: 100%;
+        text-align:center;
+
+    }
+    ol{
+        list-style:upper-alpha;
+        text-align:center;
+    }
+    
+        body{
+            background-position: right top;
+            background-attachment: fixed;
+            background-color: #C0C0C0;
+            width: 100vh;
+            height: 100vh;
+            
+}
+.second{
+    color: #6B4226;
+    text-decoration:none
+}
+p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
